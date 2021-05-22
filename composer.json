@@ -1,0 +1,7 @@
+{
+  "name": "okashoi/hello-world",
+  "description": "A function just says \"Hello World.\". This Composer package is not (and won't be) published on Packagist.",
+  "autoload": {
+    "files": ["hello-world.php"]
+  }
+}
